@@ -23,7 +23,7 @@ Project stages:
 
 
 ### AWS CouldWatch
-![CouldWatch](images/LambdaCouldWatch.png.png)
+![CouldWatch](images/LambdaCouldWatch.png)
 
 
 ### Additional webapp reviews
