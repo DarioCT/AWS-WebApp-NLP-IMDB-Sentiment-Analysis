@@ -27,6 +27,7 @@ Project stages:
 
 
 ### Additional webapp reviews
+<img src="images/Review2.png" width="200" height="200" />
 ![Review1](images/Review2.png)
 ![Review1](images/Review3.png)
 ![Review1](images/Review4.png)
