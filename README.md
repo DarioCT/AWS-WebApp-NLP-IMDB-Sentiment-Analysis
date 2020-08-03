@@ -7,7 +7,7 @@ Project stages:
 1. Retrieve the dataset
 2. Preprocess and feature engineering
 3. Upload the processed data to S3
-4. Train a random tree model
+4. Train a XGBoost model
 5. Test the trained model
 6. Deploy the trained model
 7. Use the deployed model via Lambda function
