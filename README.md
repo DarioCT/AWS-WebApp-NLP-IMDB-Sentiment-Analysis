@@ -22,6 +22,10 @@ Project stages:
 ![API](images/AmazonAPI_Gateway.png)
 
 
+### AWS CouldWatch
+![CouldWatch](images/LambdaCouldWatch.png.png)
+
+
 ### Additional webapp reviews
 ![Review1](images/Review2.png)
 ![Review1](images/Review3.png)
