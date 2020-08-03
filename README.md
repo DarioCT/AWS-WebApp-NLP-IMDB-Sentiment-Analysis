@@ -13,3 +13,17 @@ Project stages:
 5. Test the trained model
 6. Deploy the trained model
 7. Use the deployed model via Lambda function
+
+### Setting up AWS Lambda
+![Lambda](images/Lambda.png)
+
+
+### Setting up Amazon API Gateway
+![API](images/AmazonAPI_Gateway.png)
+
+
+### Additional webapp reviews
+![Review1](images/Review2.png)
+![Review1](images/Review3.png)
+![Review1](images/Review4.png)
+
